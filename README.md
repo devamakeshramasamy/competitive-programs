@@ -1,1 +1,2 @@
-# competitive-programs
+# Competitive-Programs
+Data-Stucher and Algorithm 
